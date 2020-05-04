@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+
+
+}
+
+
+h2 {
+    padding: 20px;
+}
+.servicios {
+    color: white;
+    border: 3px solid black;
+
+
+}
+
+
+.servicios .servicio-1 {
+    background-color: darkviolet;
+}
+
+.servicios .servicio-2 {
+    background-color: limegreen;
+}
+.servicios  .servicio-3 {
+    background-color: teal;
+}
+.servicios  .servicio-4 {
+    background-color:red;
+}
